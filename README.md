@@ -22,10 +22,4 @@ Then, you can get the results of Figure 2, Figure3, and Table 2.
 ## Development environment
 --------------------------
 
-matplotlib
-numpy
-scipy
-cmath
-math
-time
-sys
+matplotlib,numpy,scipy,cmath,math,time,sys
