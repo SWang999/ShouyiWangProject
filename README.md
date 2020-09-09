@@ -11,13 +11,11 @@ If you want to get results similar to the report, you can run each file directly
 
 --For Example--
 
-Run fig1_PlotYukawa.py
-Then, you can get the result of Figure 1.
+Run fig1_PlotYukawa.py. Then, you can get the result of Figure 1.
 
 --The other Example--
 
-Run fig2-3_tab2_SaxonWoodsComplex.py
-Then, you can get the results of Figure 2, Figure3, and Table 2.
+Run fig2-3_tab2_SaxonWoodsComplex.py. Then, you can get the results of Figure 2, Figure3, and Table 2.
 
 ## Development environment
 --------------------------
